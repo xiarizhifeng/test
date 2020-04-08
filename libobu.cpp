@@ -1,5 +1,5 @@
 ﻿//libobu.cpp : 定义 DLL 应用程序的导出函数。
-// 
+// test for git commit
 
 #include <tcaobu/def/ObuRetDef.h>
 #include <tcaobu/dbio/SqlHelper.h>
